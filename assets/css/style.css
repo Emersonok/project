@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: rgb(245, 240, 240);
+    background-color: rgb(248, 245, 245);
 }
 #id1{
     color: rgb(243, 20, 20);
@@ -67,17 +67,10 @@
     margin-top: 5px;
     background-color: white;
 }
-#id4{
+.cls01{
     font-size: 9px;
     color: gray;
     margin-left: 80px;
-    margin-top: 10px;
-    background-color: white;
-}
-#id5{
-    font-size: 9px;
-    margin-left: 80px;
-    color: rgb(102, 100, 100);
     margin-top: 10px;
     background-color: white;
 }
@@ -101,20 +94,13 @@
     
     
 }
-#id9{
+.cls0{
     font-size: 9px;
     margin-left: 20px;
     margin-top: 10px;
     background-color: white;
     color: gray
     
-}
-#id10{
-    font-size: 9px;
-    margin-left: 20px;
-    margin-top: 10px;
-    color: gray;
-    background-color: white;
 }
 #id11{
     font-size: 9px;
@@ -123,6 +109,103 @@
     color: gray;
     background-color: white;
 }
-.cls10{
+.box2{
+    background-color: white;
+    
+}
+.box1{
     background-color: white;
 }
+#id13{
+    margin-top: 50px;
+    margin-left: 70px;
+    color: white;
+
+}
+
+#box{
+    box-sizing: border-box;
+    width: 100%;
+    margin-left: 70px;
+    background-color: black;
+}
+.cls10{
+    font-size: 16px;
+    margin-top: 50px;
+    color: white;
+}
+.cls11{
+    font-size: 9px;
+    margin-top: 13px;
+    color: white;
+}
+.placeholder{
+    width: 590px;
+    height: 30px;
+    background-color: white;
+    font-size: 10px;
+    color: gray;
+}
+.cls13{
+    color: white;
+    background-color:rgb(240, 131, 131);
+    font-size: 8px;
+    width: 60px;
+    height: 22px;
+    margin-top: 7px;
+}
+.cls14{
+    font-size: 16px;
+    margin-left: 70px;
+    margin-top: 20px;
+}
+.cls15{
+    font-size: 10px;
+    margin-left: 70px;
+    margin-top: 15px;
+    margin-bottom: 13px;
+    color:rgb(65, 40, 40);
+}
+.cls16{
+    margin-left: 70px;
+    font-size: 12px;
+    color: rgb(65, 40, 40);
+}
+.cls17{
+    margin-left: 70px;
+    margin-top: 10px;
+    font-size: 9px;
+    width: 610px;
+    height: 35px;
+    background-color: white;
+}
+.cls18{
+    margin-left: 70px;
+    margin-top: 10px;
+    font-size: 12px;
+    background: black;
+    color: rgb(243, 236, 236);
+    height: 30px;
+}
+.cls19{
+    text-align: center;
+    font-size: 12px;
+    margin-top: 10px;
+    color: gray;
+}
+#id123{
+    text-align: center;
+    color: gray;
+}
+.cls20{
+    font-size: 9px;
+    color: gray;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+
+
+
+
+
