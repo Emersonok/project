@@ -1,3 +1,290 @@
-.cls1 {
-    width: 50px;
+*{
+    
+    margin: 0%;
+    
+    
 }
+#logo{
+    color: red;
+    font-size: 14px;
+    font: normal;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.backimg{
+    background-image: url(../assets/img/london.jpg);
+    width: 100%;
+    height: 400px;
+    margin-top: 10px;
+}
+
+.buttonform{
+    display: flex;
+
+}
+.searchbutton{
+    object-position: center;
+    width: 60%;
+    margin-left: 130px;
+    
+
+}
+#button1{
+    background: red;
+    color: white;
+    width: 250px;
+    font-size: 10px;
+    height: 25px;
+    margin-left: 1px;
+    margin-top: 150px;
+    text-align: center;
+    
+    
+}
+#button2{
+    background: black;
+    color: white;
+    width: 200px;
+    height: 25px;
+    font-size: 10px;
+    margin-top: 150px;
+    text-align: center;
+}
+#button3{
+    background: black;
+    color: white;
+    width: 200px;
+    height:25px ;
+    font-size: 10px;
+    margin-top: 150px;
+    text-align: center;
+    
+}
+#travel{
+    color: rgb(23, 21, 21);
+    margin-left: 10px;
+    margin-top: 20px;
+    
+    font-size: 16px;
+}
+#from{
+    color: rgb(23, 22, 22);
+    margin-left: 10px;
+    font-size: 10px;
+    margin-top: 30px;
+}
+#to{
+    color:rgb(23, 22, 22);
+    margin-left: 115px;
+    font-size: 10px;
+}
+#depart{
+    margin-left: 10px;
+    height: 15px;
+    font-size: 12px;
+    width: 300px;
+}
+#arrive{
+    width: 300px;
+    height: 15px;
+    margin-left: 7px;
+}
+#search{
+    background: rgb(57, 55, 55);
+    color: rgb(216, 209, 209);
+    height: 20px;
+    width: 100px;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    font-size: 9px;
+    
+}
+#form{
+    background: white;
+    
+    width: 100%;
+    
+    
+    
+}
+#text{
+    display: flex;
+    width: 100px;
+}
+#good{
+    margin-left: 70px;
+    margin-top: 20px;
+    color: rgb(43, 37, 37);
+}
+#up{
+    font-size: 10px;
+    margin-left: 70px;
+    margin-top: 10px;
+}
+.images{
+    display: flex;
+    
+}
+#cinqueterre{
+    margin-top: 5px;
+    width: 280px;
+    margin-left: 70px;
+}
+#newyork{
+    width: 120px;
+    height: 105px;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+#pisa{
+    width: 120px;
+    height: 105px;
+    margin-top: 120px;
+    margin-left: -120px;
+}
+#sanfran{
+    width: 120px;
+    height: 105px;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+#paris{
+    width: 120px;
+    height: 105px;
+    margin-top: 120px;
+    margin-left: -120px;
+}
+#explore{
+    margin-left: 70px;
+    margin-top: 15px;
+    font-size: 16px;
+    color: rgb(43, 37, 37);
+}
+#travel2{
+    font-size: 12px;
+    margin-left: 70px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+.images2{
+    display: flex;
+    margin-bottom: 50px;
+}
+.fig1{
+    margin-left: 70px;
+    background: white;
+    
+
+}
+.fig2{
+    margin-right: 60px;
+    background-color: white;
+    
+}
+#ocean{  
+    width: 280px;
+    height: 126px;
+
+}
+#mount{
+    width: 250px;
+}
+#west{
+    margin-left: 10px;
+    color: rgb(57, 55, 55);
+}
+#round{
+    margin-left: 10px;
+    font-size: 10px;
+    color: rgb(104, 100, 100);
+}
+#buy{
+    margin-left: 15px;
+    font-size: 10px;
+    color: rgb(57, 55, 55);
+}
+#form2{
+    margin-left: 70px;
+    background: rgb(105, 103, 103);
+    height: 130px;
+    width: 540px;
+    margin-bottom: 30px;
+}
+#get{
+    color: white;
+    margin-left: 10px;
+    
+}
+#join{
+    color: white;
+    margin-top: 20px;
+    margin-left: 10px;
+    font-size: 10px;
+}
+#mail{
+    color: white;
+    margin-left: 10px;
+    margin-top: 12px;
+    font-size: 9px;
+}
+#input{
+    margin-left: 10px;
+    width: 510px;
+    font-size: 10px;
+    height: 18px;
+}
+#submit{
+    font-size: 8px;
+    height: 23px;
+    margin-left: 10px;
+    margin-top: 5px;
+    color: white;
+    background: rgb(236, 110, 110)
+}
+.contact{
+    margin-left: 70px;
+}
+#let{
+    font-size: 10px;
+}
+#letus{
+    font-size: 10px;
+    margin-bottom: 10px;
+}
+#contact{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+#name{
+    width: 530px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    height: 25px;
+    font-size: 9px;
+}
+#send{
+    background: black;
+    color: whitesmoke;
+    font-size: 6px;
+    height: 23px;
+    width: 80px;
+    margin-bottom: 20px;
+}
+.icon{
+    text-align: center;
+}
+#find{
+    font-size: 10px;
+}
+#icon{
+    margin-top: 20px;
+    font-size: 12px;
+    margin-bottom: 15px;
+}
+#power{
+    font-size: 9px;
+    color: rgb(57, 55, 55);
+    margin-bottom: 15px;
+}
+
